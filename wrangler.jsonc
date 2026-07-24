@@ -1,0 +1,9 @@
+{
+    "name": "spin-dinero-casino-pl",
+    "compatibility_date": "2026-05-06",
+    "workers_dev": false,
+    "assets": {
+        "directory": "./",
+        "not_found_handling": "404-page"
+    }
+}
